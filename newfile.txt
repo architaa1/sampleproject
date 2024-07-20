@@ -1,1 +1,3 @@
-it is a new text file
+it is a new text file 
+git add .   adds all files in directory 
+add,commit,push
